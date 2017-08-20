@@ -1,3 +1,9 @@
+"""
+Goldman Sachs CodeSprint Challenge
+Bank Accounts Challenge
+See textfiles/bank-acct-challenge for more details
+"""
+
 import sys
 
 def feeOrUpfront(n, k, x, d, p):
